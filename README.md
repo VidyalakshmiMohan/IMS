@@ -1,6 +1,5 @@
 # Inventory Management System (IMS)
-This project is done by ##Vidyalakshmi.M
-( https://www.linkedin.com/in/vidyalakshmi-m-2365a8184/ ) for Elite Techno Group Python AL/ML Internship.
+This project is done by Vidyalakshmi.M ( https://www.linkedin.com/in/vidyalakshmi-m-2365a8184/ ) for Elite Techno Group Python AL/ML Internship.
 
 # Features
 Displaying products in the inventory of a Chocolate Shop
