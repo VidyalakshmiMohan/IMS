@@ -1,5 +1,4 @@
-# IMS
-Inventory Management System
+# Inventory Management System (IMS)
 This project is done by Vidyalakshmi.M ( https://www.linkedin.com/in/vidyalakshmi-m-2365a8184/ ) for Elite Techno Group Python AL/ML Internship.
 
 # Features
