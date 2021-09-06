@@ -16,4 +16,4 @@ How much quantities sold from Product Id  provided
 
 # Files 
 inventory.json - Contains the product details of the Chocolate Shop's Inventory
-sales.json     - Contains the sales details of the Chocolate Shop 
+sales.json     - Contains the sales details of the Chocolate Shop
