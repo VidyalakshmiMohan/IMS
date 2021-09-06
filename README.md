@@ -12,7 +12,7 @@ Update Product's name using Product Id
 Restocking products in the inventory
 Updating Product's price using Product Id
 How much different quantities sold
-How much quantities sold from Product Id is provided
+How much quantities sold from Product Id  provided
 
 # Files 
 inventory.json - Contains the product details of the Chocolate Shop's Inventory
