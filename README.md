@@ -4,6 +4,7 @@ This project is done by Vidyalakshmi.M ( https://www.linkedin.com/in/vidyalakshm
 
 # Features
 Displaying products in the inventory of a Chocolate Shop
+
 Allowing users to choose the product and quantity they need using Product Id
 Allowing users to know if the product is out of stock or not
 Allowing users to choose multiple products of varying quantities
